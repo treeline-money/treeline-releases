@@ -23,7 +23,7 @@
       "repo": "https://github.com/treeline-money/plugin-subscriptions"
     },
     {
-      "id": "cashflow",
+      "id": "treeline-cashflow",
       "name": "Cash Flow",
       "description": "Plan your future balance by scheduling expected income and expenses",
       "author": "Treeline",
