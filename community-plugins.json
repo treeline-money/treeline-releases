@@ -4,29 +4,25 @@
     {
       "id": "emergency-fund",
       "name": "Emergency Fund",
-      "description": "Track emergency fund runway based on your actual expenses",
-      "author": "Treeline",
+      "description": "See how long your emergency fund would last based on your actual spending patterns.",
       "repo": "https://github.com/treeline-money/plugin-emergency-fund"
     },
     {
       "id": "goals",
       "name": "Savings Goals",
-      "description": "Track savings goals like emergency funds, house down payments, and more",
-      "author": "Treeline",
+      "description": "Set savings targets and track your progress toward each goal.",
       "repo": "https://github.com/treeline-money/plugin-goals"
     },
     {
       "id": "subscriptions",
       "name": "Subscriptions",
-      "description": "Detect recurring charges and track subscription costs",
-      "author": "Treeline",
+      "description": "Automatically detects recurring charges from your transaction history.",
       "repo": "https://github.com/treeline-money/plugin-subscriptions"
     },
     {
-      "id": "treeline-cashflow",
+      "id": "cashflow",
       "name": "Cash Flow",
-      "description": "Plan your future balance by scheduling expected income and expenses",
-      "author": "Treeline",
+      "description": "Plan ahead by scheduling expected income and expenses.",
       "repo": "https://github.com/treeline-money/plugin-cashflow"
     }
   ]
